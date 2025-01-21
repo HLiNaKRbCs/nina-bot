@@ -58,4 +58,4 @@ async def 統測倒數(interaction: discord.Interaction):
     await interaction.response.send_message(message)
 
 # 啟動 Bot（將 "YOUR_TOKEN_HERE" 替換為你的機器人 Token）
-bot.run("MTMzMDgwMzQzMTk5NjEzMzQ2Nw.GqjhsM.DILVr0EJeCWpjQ8Fr-aS0-JV-AI37Ivsp91YJc")
+bot.run("")
